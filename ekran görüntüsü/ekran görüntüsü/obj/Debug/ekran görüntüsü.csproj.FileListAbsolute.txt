@@ -1,0 +1,8 @@
+c:\users\casper\documents\visual studio 2013\Projects\ekran görüntüsü\ekran görüntüsü\bin\Debug\ekran görüntüsü.exe.config
+c:\users\casper\documents\visual studio 2013\Projects\ekran görüntüsü\ekran görüntüsü\bin\Debug\ekran görüntüsü.exe
+c:\users\casper\documents\visual studio 2013\Projects\ekran görüntüsü\ekran görüntüsü\bin\Debug\ekran görüntüsü.pdb
+c:\users\casper\documents\visual studio 2013\Projects\ekran görüntüsü\ekran görüntüsü\obj\Debug\ekran_görüntüsü.Form1.resources
+c:\users\casper\documents\visual studio 2013\Projects\ekran görüntüsü\ekran görüntüsü\obj\Debug\ekran_görüntüsü.Properties.Resources.resources
+c:\users\casper\documents\visual studio 2013\Projects\ekran görüntüsü\ekran görüntüsü\obj\Debug\ekran görüntüsü.csproj.GenerateResource.Cache
+c:\users\casper\documents\visual studio 2013\Projects\ekran görüntüsü\ekran görüntüsü\obj\Debug\ekran görüntüsü.exe
+c:\users\casper\documents\visual studio 2013\Projects\ekran görüntüsü\ekran görüntüsü\obj\Debug\ekran görüntüsü.pdb
